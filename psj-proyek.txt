@@ -1,0 +1,4 @@
+PROYEK PENGELOLAAN SISTEM JARINGAN
+- Menyiapkan infrastruktur untuk proyek
+- Menginstal server untuk wadah proyek
+- Menginstal aplikasi pendukung proyek
