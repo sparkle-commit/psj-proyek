@@ -1,0 +1,5 @@
+- Instalasi 
+  * server
+  * aplikasi
+- Konfigurasi
+- uji coba
