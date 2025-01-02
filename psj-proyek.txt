@@ -4,3 +4,4 @@ PROYEK PENGELOLAAN SISTEM JARINGAN
 - Menginstal aplikasi pendukung proyek
 - Konfigurasi masing masing aplikasi pendukung
 - Setting dashboard di web server 
+- Uji coba dashboard
