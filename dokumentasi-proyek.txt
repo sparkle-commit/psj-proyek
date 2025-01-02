@@ -1,0 +1,3 @@
+- Instalasi
+- Konfigurasi
+- uji coba
