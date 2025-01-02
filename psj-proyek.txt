@@ -2,3 +2,5 @@ PROYEK PENGELOLAAN SISTEM JARINGAN
 - Menyiapkan infrastruktur untuk proyek
 - Menginstal server untuk wadah proyek
 - Menginstal aplikasi pendukung proyek
+- Konfigurasi masing masing aplikasi pendukung
+- Setting dashboard di web server 
