@@ -3,3 +3,4 @@
   * aplikasi
 - Konfigurasi
 - uji coba
+- SUHU RIZA
